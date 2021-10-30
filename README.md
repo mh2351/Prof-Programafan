@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Prof-Programafan
+- 👀 I may be a newbie at this but I do have an interest in software development and programming and other IT fields.
+- 🌱 I’m currently in High School (HSC) learning IPT and IDT
